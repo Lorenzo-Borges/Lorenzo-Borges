@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/Lorenzo-Borges/github-readme-stats">
     <img 
-        width="48%"
+        width="46%"
         height=200
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Borges&custom_title=Estatisticas+do+GitHub&show_icons=true">
