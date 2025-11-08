@@ -15,7 +15,7 @@
         width="48%"
         height=200
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&show_icons=true&theme=tokyonight&layout=compact&langs_count=6" />
 </a>
 </div>
 
