@@ -13,7 +13,7 @@
   
   <a href="https://github.com/Lorenzo-Borges/convoychat">
     <img
-        width="48%"
+        width="44%"
         height=200
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&show_icons=true&layout=compact&langs_count=6">
