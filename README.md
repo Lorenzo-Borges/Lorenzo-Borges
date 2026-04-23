@@ -1,5 +1,5 @@
 # Lorenzo Braga Borges 
-<p>Sou Lorenzo Braga Borges, estudante do quarto semestre de Engenharia de Software pela Uniasselvi. Apaixonado por tecnologia desde a infância, encontrei na área de desenvolvimento de software um espaço para unir curiosidade e criatividade. Busco constantemente aprimorar meus conhecimentos e aprender novas tecnologias, com o objetivo de evoluir como desenvolvedor e contribuir para soluções inovadoras.</p>
+<p>Sou Lorenzo Braga Borges, estudante do quinto semestre de Engenharia de Software pela Uniasselvi. Apaixonado por tecnologia desde a infância, encontrei na área de desenvolvimento de software um espaço para unir curiosidade e criatividade. Busco constantemente aprimorar meus conhecimentos e aprender novas tecnologias, com o objetivo de evoluir como desenvolvedor e contribuir para soluções inovadoras.</p>
 
 ---
 <div>
