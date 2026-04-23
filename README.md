@@ -2,25 +2,22 @@
 <p>Sou Lorenzo Braga Borges, estudante do quinto semestre de Engenharia de Software pela Uniasselvi. Apaixonado por tecnologia desde a infância, encontrei na área de desenvolvimento de software um espaço para unir curiosidade e criatividade. Busco constantemente aprimorar meus conhecimentos e aprender novas tecnologias, com o objetivo de evoluir como desenvolvedor e contribuir para soluções inovadoras.</p>
 
 ---
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://github.com/Lorenzo-Borges/github-readme-stats">
     <img 
-        width="46%"
-        height=200
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Borges&custom_title=Estatisticas+do+GitHub&show_icons=true">
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Borges&custom_title=Estatisticas+do+GitHub&show_icons=true&hide_border=true">
   </a>
   
   <a href="https://github.com/Lorenzo-Borges/convoychat">
     <img
-        width="44%"
-        height=200
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&show_icons=true&layout=compact&langs_count=6">
-</a>
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&layout=compact&langs_count=6&hide_border=true">
+  </a>
 </div>
 
 ---
+
 # Ferramentas
 
 
