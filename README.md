@@ -2,21 +2,6 @@
 <p>Sou Lorenzo Braga Borges, estudante do sexto semestre de Engenharia de Software pela Uniasselvi. Apaixonado por tecnologia desde a infância, encontrei na área de desenvolvimento de software um espaço para unir curiosidade e criatividade. Busco constantemente aprimorar meus conhecimentos e aprender novas tecnologias, com o objetivo de evoluir como desenvolvedor e contribuir para soluções inovadoras.</p>
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://github.com/Lorenzo-Borges/github-readme-stats">
-    <img 
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Borges&custom_title=Estatisticas+do+GitHub&show_icons=true&hide_border=true">
-  </a>
-  
-  <a href="https://github.com/Lorenzo-Borges/convoychat">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenzo-Borges&custom_title=Linguagens&layout=compact&langs_count=6&hide_border=true">
-  </a>
-</div>
-
----
 
 # Ferramentas
 
@@ -28,4 +13,25 @@
   <img alt="Lo-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Lo-MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="Lo-Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Lo-Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img alt="Lo-Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Lo-Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+---
+
+# Redes Sociais
+
+<div style="display: flex; gap: 10px;">
+
+<a href="https://linkedin.com/in/lorenzo-braga-borges">
+  <img alt="linkedin" height="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+</a>
+
+<a href="mailto:lorenzo.borges2001@gmail.com.com">
+  <img alt="email" height="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/1280px-Gmail_icon_%282026%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail"  
+</a>
+
+
+
 </div>
